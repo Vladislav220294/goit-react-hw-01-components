@@ -1,0 +1,12 @@
+.list {
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 1px;
+}
+.list:nth-child(2n) {
+  background-color: turquoise;
+}
+.box {
+  height: 50px;
+  border: 1px solid turquoise;
+}
