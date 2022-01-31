@@ -1,0 +1,16 @@
+.statistics {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  border: 1px solid black;
+}
+.title {
+  padding: 50px 100px;
+  color: grey;
+  text-transform: uppercase;
+}
+.statList {
+  display: flex;
+  width: 100%;
+}
